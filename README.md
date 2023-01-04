@@ -1,7 +1,7 @@
 # Churn_TelcoCustomer
 ![image](https://user-images.githubusercontent.com/82174541/210565911-3e74eae9-0bfc-4c58-91a4-2424777d2090.png)
 
-<div style="width: 60%; height: 60%">
+<div style="width: 10%; height: 10%">
   
   
 
